@@ -37,7 +37,55 @@ Skills Demonstrated
 
 Business Intelligence • Dashboard Development • KPI Analysis • Data Storytelling • Data Visualization • Power BI • DAX • Power Query • Insight Generation
 
-### Impact
 
-This project demonstrates the ability to transform raw survey data into executive-level insights through interactive dashboards, supporting data-driven decision-making and workforce trend analysis.
+# [Project 3: School Report Management System](https://github.com/GKA95/school-report-management-system-excel)
 
+### Description
+
+Designed and developed a fully automated school report management system using Microsoft Excel and VBA for private schools.
+
+### Key Features
+
+Automated report card generation
+
+Dynamic dashboards
+
+Grade and class position calculation
+
+Data validation for secure score entry
+
+Bulk PDF export
+
+Printable report cards
+
+Protected worksheets for controlled access
+
+### Technologies
+
+Microsoft Excel
+
+XLOOKUP
+
+SUMIFS
+
+Data Validation
+
+Conditional Formatting
+
+Dashboard Design
+
+### This project shows more than Excel skills. It demonstrates:
+
+Data collection (student records)
+
+Data transformation (score calculations)
+
+Business rules (grading, ranking)
+
+Reporting (report cards)
+
+Dashboard design
+
+Process automation
+
+End-user focused solution design
